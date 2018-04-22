@@ -11,6 +11,7 @@ gem 'jquery-rails',            '~>4.1'
 gem 'turbolinks',              '~>5.0'
 gem 'jbuilder',                '~>2.7'
 gem 'kramdown',                '~>1.16'
+gem 'redis',                   '~>3.3'
 
 group :development, :test do
   gem 'sqlite3', '~>1.3'
